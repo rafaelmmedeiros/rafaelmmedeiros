@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Unity 2d Games, .Net and React web applications. 
+- 🔭 I’m currently working on Unity 2D and 3D Games, .Net and React web applications. 
 - 🌱 I’m currently learning the same above...
 
 <!--
