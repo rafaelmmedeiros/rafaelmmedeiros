@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Unity 2D and 3D, .Net and React web applications. 
-- 🌱 I’m currently learning the same above...
+- 🔭 I’m currently working on Unity 2D and 3D, .Net and Angular/React web applications. 
+- 🌱 I’m always learning the same above...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmmedeiros&layout=compact&langs_count=6&hide=ShaderLab)
 
