@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Unity 2D and 3D, .Net and Angular/React web applications. 
 - 🌱 I’m always learning the same above...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmmedeiros&layout=compact&langs_count=6&hide=ShaderLab)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmmedeiros&layout=compact&langs_count=10&hide=ShaderLab)
 
 <!--
 **rafaelmmedeiros/rafaelmmedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
