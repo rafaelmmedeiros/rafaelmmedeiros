@@ -4,7 +4,7 @@
 - 🌱 I’m always learning the same above...
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmmedeiros&theme=darcula&layout=compact&langs_count=10&hide=ShaderLab,Makefile"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmmedeiros&theme=darcula&layout=compact&langs_count=10&hide=ShaderLab,Makefile" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmmedeiros&theme=nord&layout=compact&langs_count=10&hide=ShaderLab,Makefile"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmmedeiros&theme=nord&layout=compact&langs_count=10&hide=ShaderLab,Makefile" /></a>
 </p>
 
 <!--
